@@ -8,8 +8,28 @@ margin-right:auto;
 }
 
 #title{
-	background-color:#ff0000;
-	height:100px;
+	background-color:#CE1126;
+	height:120px;
 	width:1350px;
 text-align:center;
+
+}
+
+.try{
+    padding-left: 50px;
+}
+
+#images{
+    background-color:#FCD116;
+    padding: 30 30 30 30;
+    margin-top: 20px;
+
+}
+
+#content{
+    background-color: #006B3F;
+    height:auto;
+	width:1350px;
+	margin-left:auto;
+	margin-right:auto;
 }
