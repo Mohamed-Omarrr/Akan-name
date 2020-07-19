@@ -1,0 +1,15 @@
+#container{
+    background-color:#fff;
+width:1350px;
+height:auto;
+margin-left:auto;
+margin-right:auto;
+
+}
+
+#title{
+	background-color:#ff0000;
+	height:100px;
+	width:1350px;
+text-align:center;
+}
